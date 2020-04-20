@@ -1,3 +1,9 @@
+# React facebook dropdown
+
+Facebook-like dropdown menu from Fireship 🔥 tutorial [https://fireship.io/lessons/dropdown-menu-multi-level-react/](https://fireship.io/lessons/dropdown-menu-multi-level-react/).
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
